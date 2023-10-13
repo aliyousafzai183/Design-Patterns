@@ -7,7 +7,7 @@ package GOF.ChainOfResponsibility;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-165
  */
 public class ConsoleLogger extends AbstractLogger {
 
