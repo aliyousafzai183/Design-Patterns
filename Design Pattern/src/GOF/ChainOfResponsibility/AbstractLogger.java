@@ -8,6 +8,7 @@ package GOF.ChainOfResponsibility;
 /**
  *
  * @author FA20-BSE-165
+ * Ali Said
  */
 public abstract class AbstractLogger {
    public static int INFO = 1;
