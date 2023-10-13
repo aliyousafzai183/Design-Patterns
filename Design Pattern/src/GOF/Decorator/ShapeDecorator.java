@@ -7,7 +7,7 @@ package GOF.Decorator;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-165
  */
 public abstract class ShapeDecorator implements Shape {
    protected Shape decoratedShape;
