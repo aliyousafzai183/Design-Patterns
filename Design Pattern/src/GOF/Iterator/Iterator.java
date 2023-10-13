@@ -7,7 +7,7 @@ package GOF.Iterator;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-165
  */
 public class Iterator {
    boolean hasNext();
